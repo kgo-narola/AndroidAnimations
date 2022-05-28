@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/java/MeowBottomNavigation/src/main/res/layout/meow_navigation_cell.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/drawable/ic_account.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_explore.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_message.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_multiline_chart_white_24dp.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_notification.xml" value="0.1475" />
+        <entry key="app/src/main/res/layout/activity_data.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/activity_konfetti_animation.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23262279888785914" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.20925925925925926" />
+        <entry key="app/src/main/res/layout/activity_motion_layout.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/adapter_item.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/data_item.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/data_placeholder_layout.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/item_chat.xml" value="0.20925925925925926" />
+        <entry key="app/src/main/res/menu/another_menu.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/menu/menu_bottom.xml" value="0.2194871794871795" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
